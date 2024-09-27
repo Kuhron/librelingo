@@ -1,0 +1,6 @@
+# to get `bundle install` to work, need a file called `Gemfile` with the following contents (answer found from <https://github.com/orgs/community/discussions/37669>):
+source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
+
+# to run server
+bundle exec jekyll serve
