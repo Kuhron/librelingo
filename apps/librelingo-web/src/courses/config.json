@@ -3,15 +3,15 @@
     "url": "",
     "repositoryURL": "",
     "paths": {
-      "yamlFolder": "test-1",
-      "jsonFolder": "test-1"
+      "yamlFolder": "",
+      "jsonFolder": "uraqt-from-english"
     },
-    "deploy": true,
+    "deploy": false,
     "inProduction": false,
-    "name": "test-1",
+    "name": "uraqt-from-english",
     "source": "English",
-    "target": "Test1",
-    "description": "Test1 for English speakers"
+    "target": "Uraqt",
+    "description": "Uraqt for English speakers"
   },
   {
     "url": "https://github.com/LibreLingo/LibreLingo-ES-from-EN/archive/refs/heads/main.zip",
@@ -90,7 +90,7 @@
       "yamlFolder": "librelingo-de-from-en",
       "jsonFolder": "german-from-english"
     },
-    "deploy": true,
+    "deploy": false,
     "inProduction": true,
     "name": "german-from-english",
     "source": "English",
@@ -230,7 +230,7 @@
       "yamlFolder": "LibreLingo-NL-from-EN",
       "jsonFolder": "dutch-from-english"
     },
-    "deploy": true,
+    "deploy": false,
     "inProduction": true,
     "name": "dutch-from-english",
     "source": "English",
