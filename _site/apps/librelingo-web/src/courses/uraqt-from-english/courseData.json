@@ -1,0 +1,79 @@
+{
+  "languageName": "Uraqt",
+  "languageCode": "art-x-uraqt",
+  "uiLanguage": "en",
+  "specialCharacters": [
+    "Ë",
+    "ë",
+    "Á",
+    "á",
+    "É",
+    "é",
+    "Í",
+    "í",
+    "Ó",
+    "ó",
+    "Ú",
+    "ú",
+    "Ě",
+    "ě"
+  ],
+  "repositoryURL": "none",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "dog1",
+            "lion3",
+            "cat3"
+          ],
+          "introduction": "animals.md",
+          "summary": [
+            "jëpëp",
+            "jëkit",
+            "jëpëples kodzu",
+            "jëkitogu",
+            "jëhwë",
+            "Es jëhwë.",
+            "Max jëpëp.",
+            "jëkit tak jëpëp"
+          ],
+          "practiceHref": "animals",
+          "id": "38c2ea1c36d2",
+          "title": "Animals",
+          "levels": 2
+        },
+        {
+          "imageSet": [
+            "bread1",
+            "milk2",
+            "pasta3"
+          ],
+          "summary": [
+            "kosën",
+            "demu",
+            "Kur kosën dzisunú!",
+            "Kur if dzisunú!",
+            "Nikola demes if.",
+            "Dzi for demes demu.",
+            "Wesli kobes kosën.",
+            "Sun kobes kosën."
+          ],
+          "practiceHref": "food",
+          "id": "569673478a3d",
+          "title": "Food",
+          "levels": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "id": "569673478a3d",
+  "levels": 2,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kur kosën dzisunú!",
+      "meaningInSourceLanguage": "Give me bread!",
+      "id": "3cef491bd451",
+      "priority": 0,
+      "group": "1000cacc8b0f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Give",
+          "definition": "(argument frame)"
+        },
+        {
+          "word": "me",
+          "definition": "sun"
+        },
+        {
+          "word": "bread!",
+          "definition": "kosën"
+        }
+      ],
+      "chips": [
+        "Kur",
+        "kosën",
+        "dzisunú",
+        "Sun",
+        "Es"
+      ],
+      "solutions": [
+        [
+          "Kur",
+          "kosën",
+          "dzisunú"
+        ]
+      ],
+      "formattedSolution": "Kur kosën dzisunú!",
+      "id": "817ec60ae221",
+      "priority": 2,
+      "group": "1000cacc8b0f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kur",
+          "definition": "from you"
+        },
+        {
+          "word": "kosën",
+          "definition": "bread"
+        },
+        {
+          "word": "dzisunú!",
+          "definition": "to me (imperative)"
+        }
+      ],
+      "chips": [
+        "Give",
+        "me",
+        "bread",
+        "is",
+        "a"
+      ],
+      "solutions": [
+        [
+          "Give",
+          "me",
+          "bread"
+        ]
+      ],
+      "formattedSolution": "Give me bread!",
+      "id": "014eced685c1",
+      "priority": 2,
+      "group": "1000cacc8b0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kur if dzisunú!",
+      "meaningInSourceLanguage": "Give me water!",
+      "id": "b3b059f7140a",
+      "priority": 0,
+      "group": "beec4323b62d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Give",
+          "definition": "(argument frame)"
+        },
+        {
+          "word": "me",
+          "definition": "sun"
+        },
+        {
+          "word": "water!",
+          "definition": "if"
+        }
+      ],
+      "chips": [
+        "Kur",
+        "if",
+        "dzisunú",
+        "Sun",
+        "Es"
+      ],
+      "solutions": [
+        [
+          "Kur",
+          "if",
+          "dzisunú"
+        ]
+      ],
+      "formattedSolution": "Kur if dzisunú!",
+      "id": "9a57898e2269",
+      "priority": 2,
+      "group": "beec4323b62d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kur",
+          "definition": "from you"
+        },
+        {
+          "word": "if",
+          "definition": "water"
+        },
+        {
+          "word": "dzisunú!",
+          "definition": "to me (imperative)"
+        }
+      ],
+      "chips": [
+        "Give",
+        "me",
+        "water",
+        "It",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Give",
+          "me",
+          "water"
+        ]
+      ],
+      "formattedSolution": "Give me water!",
+      "id": "89dee794af65",
+      "priority": 2,
+      "group": "beec4323b62d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nikola demes if.",
+      "meaningInSourceLanguage": "Nicola drinks water.",
+      "id": "a60069e46ecb",
+      "priority": 0,
+      "group": "da234c8d04be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Nicola",
+          "definition": "Nikola"
+        },
+        {
+          "word": "drinks",
+          "definition": "ASDF"
+        },
+        {
+          "word": "water.",
+          "definition": "if"
+        }
+      ],
+      "chips": [
+        "Nikola",
+        "demes",
+        "if",
+        "Es",
+        "demu"
+      ],
+      "solutions": [
+        [
+          "Nikola",
+          "demes",
+          "if"
+        ]
+      ],
+      "formattedSolution": "Nikola demes if.",
+      "id": "811dc28f0815",
+      "priority": 2,
+      "group": "da234c8d04be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nikola",
+          "definition": "Nicola"
+        },
+        {
+          "word": "demes",
+          "definition": "ASDF"
+        },
+        {
+          "word": "if.",
+          "definition": "water"
+        }
+      ],
+      "chips": [
+        "Nicola",
+        "drinks",
+        "water",
+        "drink",
+        "milk"
+      ],
+      "solutions": [
+        [
+          "Nicola",
+          "drinks",
+          "water"
+        ]
+      ],
+      "formattedSolution": "Nicola drinks water.",
+      "id": "1a0979c4ab75",
+      "priority": 2,
+      "group": "da234c8d04be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dzi for demes demu.",
+      "meaningInSourceLanguage": "Two people drink milk.",
+      "id": "26d5f3cefdbc",
+      "priority": 0,
+      "group": "2e56ed40bbe8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Two",
+          "definition": "dzi"
+        },
+        {
+          "word": "people",
+          "definition": "for"
+        },
+        {
+          "word": "drink",
+          "definition": "deme"
+        },
+        {
+          "word": "milk.",
+          "definition": "demu"
+        }
+      ],
+      "chips": [
+        "Dzi",
+        "for",
+        "demes",
+        "demu",
+        "Es",
+        "Kur",
+        "Max"
+      ],
+      "solutions": [
+        [
+          "Dzi",
+          "for",
+          "demes",
+          "demu"
+        ]
+      ],
+      "formattedSolution": "Dzi for demes demu.",
+      "id": "c9d057bbbdc8",
+      "priority": 2,
+      "group": "2e56ed40bbe8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dzi",
+          "definition": "two"
+        },
+        {
+          "word": "for",
+          "definition": "person, people"
+        },
+        {
+          "word": "demes",
+          "definition": "ASDF"
+        },
+        {
+          "word": "demu.",
+          "definition": "milk"
+        }
+      ],
+      "chips": [
+        "Two",
+        "people",
+        "drink",
+        "milk",
+        "is",
+        "dog",
+        "Give"
+      ],
+      "solutions": [
+        [
+          "Two",
+          "people",
+          "drink",
+          "milk"
+        ]
+      ],
+      "formattedSolution": "Two people drink milk.",
+      "id": "d0f9561d64d9",
+      "priority": 2,
+      "group": "2e56ed40bbe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wesli kobes kosën.",
+      "meaningInSourceLanguage": "Wesley eats bread.",
+      "id": "59f729b963a9",
+      "priority": 0,
+      "group": "ab56494c306f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Wesley",
+          "definition": "Wesli"
+        },
+        {
+          "word": "eats",
+          "definition": "ASDF"
+        },
+        {
+          "word": "bread.",
+          "definition": "kosën"
+        }
+      ],
+      "chips": [
+        "Wesli",
+        "kobes",
+        "kosën",
+        "Es",
+        "demes"
+      ],
+      "solutions": [
+        [
+          "Wesli",
+          "kobes",
+          "kosën"
+        ]
+      ],
+      "formattedSolution": "Wesli kobes kosën.",
+      "id": "be86d79f2751",
+      "priority": 2,
+      "group": "ab56494c306f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wesli",
+          "definition": "Wesley"
+        },
+        {
+          "word": "kobes",
+          "definition": "ASDF"
+        },
+        {
+          "word": "kosën.",
+          "definition": "bread"
+        }
+      ],
+      "chips": [
+        "Wesley",
+        "eats",
+        "bread",
+        "eat",
+        "cat"
+      ],
+      "solutions": [
+        [
+          "Wesley",
+          "eats",
+          "bread"
+        ]
+      ],
+      "formattedSolution": "Wesley eats bread.",
+      "id": "61d8e6fdb10b",
+      "priority": 2,
+      "group": "ab56494c306f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sun kobes kosën.",
+      "meaningInSourceLanguage": "I eat bread.",
+      "id": "87a31cfb494b",
+      "priority": 0,
+      "group": "c01cf36b715f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "sun"
+        },
+        {
+          "word": "eat",
+          "definition": "kobo"
+        },
+        {
+          "word": "bread.",
+          "definition": "kosën"
+        }
+      ],
+      "chips": [
+        "Sun",
+        "kobes",
+        "kosën",
+        "Es",
+        "for"
+      ],
+      "solutions": [
+        [
+          "Sun",
+          "kobes",
+          "kosën"
+        ]
+      ],
+      "formattedSolution": "Sun kobes kosën.",
+      "id": "d949e556206c",
+      "priority": 2,
+      "group": "c01cf36b715f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sun",
+          "definition": "I"
+        },
+        {
+          "word": "kobes",
+          "definition": "ASDF"
+        },
+        {
+          "word": "kosën.",
+          "definition": "bread"
+        }
+      ],
+      "chips": [
+        "I",
+        "eat",
+        "bread",
+        "a",
+        "It"
+      ],
+      "solutions": [
+        [
+          "I",
+          "eat",
+          "bread"
+        ]
+      ],
+      "formattedSolution": "I eat bread.",
+      "id": "8e7767ff4be2",
+      "priority": 2,
+      "group": "c01cf36b715f"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bread1.jpg",
+        "bread2.jpg",
+        "bread3.jpg"
+      ],
+      "formInTargetLanguage": "kosën",
+      "meaningInSourceLanguage": "bread",
+      "id": "6e05ec01031f",
+      "priority": 0,
+      "group": "91aa0f7ea048"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bread1.jpg",
+        "bread2.jpg",
+        "bread3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kosën"
+      ],
+      "phrase": [
+        {
+          "word": "bread",
+          "definition": "kosën"
+        }
+      ],
+      "id": "908bf1f31288",
+      "priority": 1,
+      "group": "91aa0f7ea048"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "milk1.jpg",
+        "milk2.jpg",
+        "milk3.jpg"
+      ],
+      "formInTargetLanguage": "demu",
+      "meaningInSourceLanguage": "milk",
+      "id": "754e35c369c2",
+      "priority": 0,
+      "group": "862d7aae74ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "milk1.jpg",
+        "milk2.jpg",
+        "milk3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "demu"
+      ],
+      "phrase": [
+        {
+          "word": "milk",
+          "definition": "demu"
+        }
+      ],
+      "id": "e3c36ba4640d",
+      "priority": 1,
+      "group": "862d7aae74ae"
+    }
+  ]
+}

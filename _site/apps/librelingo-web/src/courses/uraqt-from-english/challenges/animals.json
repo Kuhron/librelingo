@@ -1,0 +1,427 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 2,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Es jëhwë.",
+      "meaningInSourceLanguage": "It is a horse.",
+      "id": "f037a0727eba",
+      "priority": 0,
+      "group": "6ef3b6012a58"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "es"
+        },
+        {
+          "word": "is",
+          "definition": "(nothing)"
+        },
+        {
+          "word": "a",
+          "definition": "(nothing)"
+        },
+        {
+          "word": "horse.",
+          "definition": "jëhwë"
+        }
+      ],
+      "chips": [
+        "Es",
+        "jëhwë",
+        "if",
+        "Max"
+      ],
+      "solutions": [
+        [
+          "Es",
+          "jëhwë"
+        ]
+      ],
+      "formattedSolution": "Es jëhwë.",
+      "id": "3dbd9609eb24",
+      "priority": 2,
+      "group": "6ef3b6012a58"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Es",
+          "definition": "he/she/it (physical)\nit (physical)"
+        },
+        {
+          "word": "jëhwë.",
+          "definition": "horse"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "a",
+        "horse",
+        "I",
+        "me",
+        "cat"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "a",
+          "horse"
+        ]
+      ],
+      "formattedSolution": "It is a horse.",
+      "id": "1567ea5bd803",
+      "priority": 2,
+      "group": "6ef3b6012a58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Max jëpëp.",
+      "meaningInSourceLanguage": "Max is a dog.",
+      "id": "d6a0568cdc4b",
+      "priority": 0,
+      "group": "516b7cba6579"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Max",
+          "definition": "Max"
+        },
+        {
+          "word": "is",
+          "definition": "(nothing)"
+        },
+        {
+          "word": "a",
+          "definition": "(nothing)"
+        },
+        {
+          "word": "dog.",
+          "definition": "jëpëp"
+        }
+      ],
+      "chips": [
+        "Max",
+        "jëpëp",
+        "tak",
+        "Es"
+      ],
+      "solutions": [
+        [
+          "Max",
+          "jëpëp"
+        ]
+      ],
+      "formattedSolution": "Max jëpëp.",
+      "id": "bbc738e58bbb",
+      "priority": 2,
+      "group": "516b7cba6579"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Max",
+          "definition": "Max"
+        },
+        {
+          "word": "jëpëp.",
+          "definition": "dog"
+        }
+      ],
+      "chips": [
+        "Max",
+        "is",
+        "a",
+        "dog",
+        "I",
+        "It",
+        "cat"
+      ],
+      "solutions": [
+        [
+          "Max",
+          "is",
+          "a",
+          "dog"
+        ]
+      ],
+      "formattedSolution": "Max is a dog.",
+      "id": "63d52eac02fd",
+      "priority": 2,
+      "group": "516b7cba6579"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jëkit tak jëpëp",
+      "meaningInSourceLanguage": "a cat and a dog",
+      "id": "05bd8a0a8d9c",
+      "priority": 0,
+      "group": "7c137417b86d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "a",
+          "definition": "(nothing)"
+        },
+        {
+          "word": "cat",
+          "definition": "jëkit"
+        },
+        {
+          "word": "and",
+          "definition": "tak"
+        },
+        {
+          "word": "a",
+          "definition": "(nothing)"
+        },
+        {
+          "word": "dog",
+          "definition": "jëpëp"
+        }
+      ],
+      "chips": [
+        "jëkit",
+        "tak",
+        "jëpëp",
+        "jëhwë",
+        "Max"
+      ],
+      "solutions": [
+        [
+          "jëkit",
+          "tak",
+          "jëpëp"
+        ]
+      ],
+      "formattedSolution": "jëkit tak jëpëp",
+      "id": "35b01e0997b7",
+      "priority": 2,
+      "group": "7c137417b86d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "jëkit",
+          "definition": "cat"
+        },
+        {
+          "word": "tak",
+          "definition": "and"
+        },
+        {
+          "word": "jëpëp",
+          "definition": "dog"
+        }
+      ],
+      "chips": [
+        "a",
+        "cat",
+        "and",
+        "a",
+        "dog",
+        "I",
+        "eat",
+        "It",
+        "Max"
+      ],
+      "solutions": [
+        [
+          "a",
+          "cat",
+          "and",
+          "a",
+          "dog"
+        ]
+      ],
+      "formattedSolution": "a cat and a dog",
+      "id": "ccebac75e7ec",
+      "priority": 2,
+      "group": "7c137417b86d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": "jëpëp",
+      "meaningInSourceLanguage": "dog",
+      "id": "7883bf97457a",
+      "priority": 0,
+      "group": "5f99037b5007"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jëpëp"
+      ],
+      "phrase": [
+        {
+          "word": "dog",
+          "definition": "jëpëp"
+        }
+      ],
+      "id": "1bda2b8a0aa7",
+      "priority": 1,
+      "group": "5f99037b5007"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": "jëkit",
+      "meaningInSourceLanguage": "cat",
+      "id": "55d5c97ae71e",
+      "priority": 0,
+      "group": "98fae050e14d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jëkit"
+      ],
+      "phrase": [
+        {
+          "word": "cat",
+          "definition": "jëkit"
+        }
+      ],
+      "id": "2e041537b4d2",
+      "priority": 1,
+      "group": "98fae050e14d"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bear1.jpg",
+        "bear2.jpg",
+        "bear1.jpg"
+      ],
+      "formInTargetLanguage": "jëpëples kodzu",
+      "meaningInSourceLanguage": "bear",
+      "id": "8340945238af",
+      "priority": 0,
+      "group": "575202757f80"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bear1.jpg",
+        "bear2.jpg",
+        "bear1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jëpëples kodzu"
+      ],
+      "phrase": [
+        {
+          "word": "bear",
+          "definition": "jëpëples kodzu"
+        }
+      ],
+      "id": "432cbb67a96a",
+      "priority": 1,
+      "group": "575202757f80"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": "jëkitogu",
+      "meaningInSourceLanguage": "lion",
+      "id": "c746e65054e4",
+      "priority": 0,
+      "group": "31508c1200d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jëkitogu"
+      ],
+      "phrase": [
+        {
+          "word": "lion",
+          "definition": "jëkitogu"
+        }
+      ],
+      "id": "f714afb62dd3",
+      "priority": 1,
+      "group": "31508c1200d3"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": "jëhwë",
+      "meaningInSourceLanguage": "horse",
+      "id": "4cecff8cbc93",
+      "priority": 0,
+      "group": "c1d4168afc84"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jëhwë"
+      ],
+      "phrase": [
+        {
+          "word": "horse",
+          "definition": "jëhwë"
+        }
+      ],
+      "id": "cd4cf87c65f5",
+      "priority": 1,
+      "group": "c1d4168afc84"
+    }
+  ]
+}
