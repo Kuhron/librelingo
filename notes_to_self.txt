@@ -1,0 +1,12 @@
+# use pdm instead of poetry for python package management, contra what the docs say at <https://librelingo.app/docs/#setting-up-the-development-environment>
+
+# to see the npm scripts:
+npm run --list
+
+# to see the pdm scripts:
+pdm run --list
+
+# pdm scripts are how you export and install a course
+# npm scripts are how you run the web dev server
+
+
